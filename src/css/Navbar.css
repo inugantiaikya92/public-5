@@ -1,0 +1,35 @@
+.active {
+    border-bottom: 5px solid #FF5800;; /* Add your desired line color and thickness */
+}
+.navtext{
+    color: #523AB4;
+    font-size: 15px;
+    font-weight: 600;
+}
+.logobox{
+    background-image: url('../Img/nav-jss-logo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 95px;
+    width: 95px;
+    border-radius: 50%;
+    align-items: center;
+}
+.navbarset{
+    margin-left: 21%;
+}
+.max-w-screen-lg{
+    max-width: fit-content;
+}
+
+@media screen and (max-width: 800px) {
+    .customtoggle{
+        display: none;
+    }
+    .show{
+        display: none;
+    }
+    .hide{
+        display:flex;
+    }
+  }
