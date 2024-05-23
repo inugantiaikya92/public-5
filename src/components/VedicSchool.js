@@ -219,7 +219,7 @@ function VedicSchool() {
                                     {/* Personal Details Section */}
                                     <div className='justify-content-center align-item-center'>
                                         <div>
-                                            <h2 className='styleHeadingForm' style={{ margin: '0' }}>JSS Yoga Form</h2>
+                                            <h2 className='styleHeadingForm' style={{ margin: '0' }}>JSS Vedic Registration Form</h2>
                                             <hr className="separator separator--line" style={{ margin: '0' }} />
                                         </div>
                                         <div className='container' style={{ paddingTop: 40 }}>
